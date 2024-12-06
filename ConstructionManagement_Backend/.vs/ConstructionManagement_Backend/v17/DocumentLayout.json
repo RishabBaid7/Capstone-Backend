@@ -1,0 +1,1231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\services\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:services\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\repositories\\ireportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:repositories\\ireportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\repositories\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:repositories\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\services\\equipmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:services\\equipmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\services\\iequipmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:services\\iequipmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\repositories\\iequipmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:repositories\\iequipmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\controllers\\equipmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:controllers\\equipmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\repositories\\equipmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:repositories\\equipmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\models\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:models\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\repositories\\documentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:repositories\\documentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\repositories\\idocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:repositories\\idocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\services\\idocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:services\\idocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\controllers\\safetyinspectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:controllers\\safetyinspectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\services\\isafetyinspectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:services\\isafetyinspectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\repositories\\isafetyinspectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:repositories\\isafetyinspectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\repositories\\safetyinspectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:repositories\\safetyinspectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\services\\safetyinspectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:services\\safetyinspectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\models\\safetyinspection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:models\\safetyinspection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\controllers\\workforcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:controllers\\workforcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\services\\iworkforceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:services\\iworkforceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\repositories\\iworkforcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:repositories\\iworkforcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\services\\workforceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:services\\workforceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\repositories\\workforcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:repositories\\workforcerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\models\\workforce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:models\\workforce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\attributes\\authorizeroleattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:attributes\\authorizeroleattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\middleware\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:middleware\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\configurations\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:configurations\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\repositories\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:repositories\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\controllers\\vendorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:controllers\\vendorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\repositories\\vendorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:repositories\\vendorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\services\\ivendorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:services\\ivendorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\services\\materialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:services\\materialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\repositories\\ivendorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:repositories\\ivendorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\services\\vendorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:services\\vendorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\controllers\\financecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:controllers\\financecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\controllers\\materialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:controllers\\materialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\services\\imaterialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:services\\imaterialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\repositories\\materialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:repositories\\materialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\repositories\\imaterialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:repositories\\imaterialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\services\\ifinanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:services\\ifinanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\services\\financeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:services\\financeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\services\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:services\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\repositories\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:repositories\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\repositories\\ifinancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:repositories\\ifinancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\repositories\\financerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:repositories\\financerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\models\\finance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:models\\finance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|c:\\users\\sridh\\downloads\\constructionmanagement_backend\\constructionmanagement_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F3BBB98-0A61-42DD-B371-61FE314B80FF}|ConstructionManagement_Backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 258,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IReportService.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\IReportService.cs",
+              "RelativeDocumentMoniker": "Services\\IReportService.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\IReportService.cs",
+              "RelativeToolTip": "Services\\IReportService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:10:51.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "Services\\ReportService.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\ReportService.cs",
+              "RelativeToolTip": "Services\\ReportService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:10:42.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\IReportRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IReportRepository.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\IReportRepository.cs",
+              "RelativeToolTip": "Repositories\\IReportRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:10:31.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\ReportRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ReportRepository.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\ReportRepository.cs",
+              "RelativeToolTip": "Repositories\\ReportRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:10:25.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "Controllers\\ReportController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAwD0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:09:52.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EquipmentController.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Controllers\\EquipmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EquipmentController.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Controllers\\EquipmentController.cs",
+              "RelativeToolTip": "Controllers\\EquipmentController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAYwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:06:06.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEquipmentService.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\IEquipmentService.cs",
+              "RelativeDocumentMoniker": "Services\\IEquipmentService.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\IEquipmentService.cs",
+              "RelativeToolTip": "Services\\IEquipmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:05:35.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EquipmentService.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\EquipmentService.cs",
+              "RelativeDocumentMoniker": "Services\\EquipmentService.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\EquipmentService.cs",
+              "RelativeToolTip": "Services\\EquipmentService.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAA1wFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:05:28.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEquipmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\IEquipmentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IEquipmentRepository.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\IEquipmentRepository.cs",
+              "RelativeToolTip": "Repositories\\IEquipmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:05:16.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EquipmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\EquipmentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EquipmentRepository.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\EquipmentRepository.cs",
+              "RelativeToolTip": "Repositories\\EquipmentRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:05:11.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IDocumentService.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\IDocumentService.cs",
+              "RelativeDocumentMoniker": "Services\\IDocumentService.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\IDocumentService.cs",
+              "RelativeToolTip": "Services\\IDocumentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:58:48.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DocumentService.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\DocumentService.cs",
+              "RelativeDocumentMoniker": "Services\\DocumentService.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\DocumentService.cs",
+              "RelativeToolTip": "Services\\DocumentService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:58:34.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DocumentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\DocumentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\DocumentRepository.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\DocumentRepository.cs",
+              "RelativeToolTip": "Repositories\\DocumentRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:58:07.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IDocumentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\IDocumentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IDocumentRepository.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\IDocumentRepository.cs",
+              "RelativeToolTip": "Repositories\\IDocumentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:58:02.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DocumentController.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Controllers\\DocumentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DocumentController.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Controllers\\DocumentController.cs",
+              "RelativeToolTip": "Controllers\\DocumentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:57:54.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ISafetyInspectionService.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\ISafetyInspectionService.cs",
+              "RelativeDocumentMoniker": "Services\\ISafetyInspectionService.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\ISafetyInspectionService.cs",
+              "RelativeToolTip": "Services\\ISafetyInspectionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:53:04.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SafetyInspectionService.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\SafetyInspectionService.cs",
+              "RelativeDocumentMoniker": "Services\\SafetyInspectionService.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\SafetyInspectionService.cs",
+              "RelativeToolTip": "Services\\SafetyInspectionService.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:52:57.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SafetyInspectionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\SafetyInspectionRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\SafetyInspectionRepository.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\SafetyInspectionRepository.cs",
+              "RelativeToolTip": "Repositories\\SafetyInspectionRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwCIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:52:50.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ISafetyInspectionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\ISafetyInspectionRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ISafetyInspectionRepository.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\ISafetyInspectionRepository.cs",
+              "RelativeToolTip": "Repositories\\ISafetyInspectionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:52:42.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SafetyInspectionController.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Controllers\\SafetyInspectionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SafetyInspectionController.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Controllers\\SafetyInspectionController.cs",
+              "RelativeToolTip": "Controllers\\SafetyInspectionController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowBMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:52:31.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WorkforceController.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Controllers\\WorkforceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WorkforceController.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Controllers\\WorkforceController.cs",
+              "RelativeToolTip": "Controllers\\WorkforceController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:47:41.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IWorkforceService.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\IWorkforceService.cs",
+              "RelativeDocumentMoniker": "Services\\IWorkforceService.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\IWorkforceService.cs",
+              "RelativeToolTip": "Services\\IWorkforceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:46:29.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WorkforceService.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\WorkforceService.cs",
+              "RelativeDocumentMoniker": "Services\\WorkforceService.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\WorkforceService.cs",
+              "RelativeToolTip": "Services\\WorkforceService.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:46:20.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IWorkforceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\IWorkforceRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IWorkforceRepository.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\IWorkforceRepository.cs",
+              "RelativeToolTip": "Repositories\\IWorkforceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:46:11.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WorkforceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\WorkforceRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\WorkforceRepository.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\WorkforceRepository.cs",
+              "RelativeToolTip": "Repositories\\WorkforceRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:46:06.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\IUserService.cs",
+              "RelativeToolTip": "Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:20:20.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Controllers\\TaskController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwBMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:18:34.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "Repositories\\TaskRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:18:09.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ITaskRepository.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\ITaskRepository.cs",
+              "RelativeToolTip": "Repositories\\ITaskRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:17:52.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\TaskService.cs",
+              "RelativeToolTip": "Services\\TaskService.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:17:45.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\ITaskService.cs",
+              "RelativeDocumentMoniker": "Services\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\ITaskService.cs",
+              "RelativeToolTip": "Services\\ITaskService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:17:37.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "VendorController.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Controllers\\VendorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VendorController.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Controllers\\VendorController.cs",
+              "RelativeToolTip": "Controllers\\VendorController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:04:58.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IVendorService.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\IVendorService.cs",
+              "RelativeDocumentMoniker": "Services\\IVendorService.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\IVendorService.cs",
+              "RelativeToolTip": "Services\\IVendorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:04:46.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "VendorService.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\VendorService.cs",
+              "RelativeDocumentMoniker": "Services\\VendorService.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\VendorService.cs",
+              "RelativeToolTip": "Services\\VendorService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:04:38.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "VendorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\VendorRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\VendorRepository.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\VendorRepository.cs",
+              "RelativeToolTip": "Repositories\\VendorRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:04:24.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IVendorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\IVendorRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IVendorRepository.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\IVendorRepository.cs",
+              "RelativeToolTip": "Repositories\\IVendorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:04:15.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MaterialService.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\MaterialService.cs",
+              "RelativeDocumentMoniker": "Services\\MaterialService.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\MaterialService.cs",
+              "RelativeToolTip": "Services\\MaterialService.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAQwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:58:47.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IMaterialService.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\IMaterialService.cs",
+              "RelativeDocumentMoniker": "Services\\IMaterialService.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\IMaterialService.cs",
+              "RelativeToolTip": "Services\\IMaterialService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:58:40.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "MaterialController.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Controllers\\MaterialController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MaterialController.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Controllers\\MaterialController.cs",
+              "RelativeToolTip": "Controllers\\MaterialController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:57:55.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "MaterialRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\MaterialRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\MaterialRepository.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\MaterialRepository.cs",
+              "RelativeToolTip": "Repositories\\MaterialRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:57:11.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IMaterialRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\IMaterialRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IMaterialRepository.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\IMaterialRepository.cs",
+              "RelativeToolTip": "Repositories\\IMaterialRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:56:57.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IFinanceService.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\IFinanceService.cs",
+              "RelativeDocumentMoniker": "Services\\IFinanceService.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\IFinanceService.cs",
+              "RelativeToolTip": "Services\\IFinanceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:25:45.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FinanceController.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Controllers\\FinanceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FinanceController.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Controllers\\FinanceController.cs",
+              "RelativeToolTip": "Controllers\\FinanceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:25:18.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "FinanceService.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\FinanceService.cs",
+              "RelativeDocumentMoniker": "Services\\FinanceService.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\FinanceService.cs",
+              "RelativeToolTip": "Services\\FinanceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:25:05.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IFinanceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\IFinanceRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IFinanceRepository.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\IFinanceRepository.cs",
+              "RelativeToolTip": "Repositories\\IFinanceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:14:43.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "FinanceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\FinanceRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\FinanceRepository.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\FinanceRepository.cs",
+              "RelativeToolTip": "Repositories\\FinanceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:14:18.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AuthorizeRoleAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Attributes\\AuthorizeRoleAttribute.cs",
+              "RelativeDocumentMoniker": "Attributes\\AuthorizeRoleAttribute.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Attributes\\AuthorizeRoleAttribute.cs",
+              "RelativeToolTip": "Attributes\\AuthorizeRoleAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:33:07.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "JwtMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Middleware\\JwtMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\JwtMiddleware.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Middleware\\JwtMiddleware.cs",
+              "RelativeToolTip": "Middleware\\JwtMiddleware.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:32:25.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "Controllers\\ProjectController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAuwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:28:30.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\IProjectService.cs",
+              "RelativeDocumentMoniker": "Services\\IProjectService.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\IProjectService.cs",
+              "RelativeToolTip": "Services\\IProjectService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:27:22.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\ProjectService.cs",
+              "RelativeDocumentMoniker": "Services\\ProjectService.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\ProjectService.cs",
+              "RelativeToolTip": "Services\\ProjectService.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAuwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:27:07.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProjectRepository.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\ProjectRepository.cs",
+              "RelativeToolTip": "Repositories\\ProjectRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:26:43.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\IProjectRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProjectRepository.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\IProjectRepository.cs",
+              "RelativeToolTip": "Repositories\\IProjectRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:26:34.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:25:26.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:25:13.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:23:25.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Models\\Report.cs",
+              "RelativeDocumentMoniker": "Models\\Report.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Models\\Report.cs",
+              "RelativeToolTip": "Models\\Report.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:23:13.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Models\\Equipment.cs",
+              "RelativeDocumentMoniker": "Models\\Equipment.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Models\\Equipment.cs",
+              "RelativeToolTip": "Models\\Equipment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:23:03.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Vendor.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Models\\Vendor.cs",
+              "RelativeDocumentMoniker": "Models\\Vendor.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Models\\Vendor.cs",
+              "RelativeToolTip": "Models\\Vendor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:22:46.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Models\\Document.cs",
+              "RelativeDocumentMoniker": "Models\\Document.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Models\\Document.cs",
+              "RelativeToolTip": "Models\\Document.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:22:35.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SafetyInspection.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Models\\SafetyInspection.cs",
+              "RelativeDocumentMoniker": "Models\\SafetyInspection.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Models\\SafetyInspection.cs",
+              "RelativeToolTip": "Models\\SafetyInspection.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:22:25.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Workforce.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Models\\Workforce.cs",
+              "RelativeDocumentMoniker": "Models\\Workforce.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Models\\Workforce.cs",
+              "RelativeToolTip": "Models\\Workforce.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:22:05.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Material.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Models\\Material.cs",
+              "RelativeDocumentMoniker": "Models\\Material.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Models\\Material.cs",
+              "RelativeToolTip": "Models\\Material.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvxwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:21:54.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TaskModel.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Models\\TaskModel.cs",
+              "RelativeDocumentMoniker": "Models\\TaskModel.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Models\\TaskModel.cs",
+              "RelativeToolTip": "Models\\TaskModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:21:43.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Finance.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Models\\Finance.cs",
+              "RelativeDocumentMoniker": "Models\\Finance.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Models\\Finance.cs",
+              "RelativeToolTip": "Models\\Finance.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:21:30.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Models\\Project.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Models\\Project.cs",
+              "RelativeToolTip": "Models\\Project.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:21:00.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:20:18.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DatabaseSettings.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Configurations\\DatabaseSettings.cs",
+              "RelativeDocumentMoniker": "Configurations\\DatabaseSettings.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Configurations\\DatabaseSettings.cs",
+              "RelativeToolTip": "Configurations\\DatabaseSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:18:43.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T15:58:06.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:55:56.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\sridh\\Downloads\\ConstructionManagement_Backend\\ConstructionManagement_Backend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:55:01.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
