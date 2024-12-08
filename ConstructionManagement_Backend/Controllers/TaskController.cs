@@ -21,7 +21,8 @@ namespace ConstructionManagement_Backend.Controllers
         public async Task<IActionResult> CreateTask([FromBody] TaskModel task)
         {
             await _taskService.CreateTaskAsync(task);
-            return Ok("Task created successfully.");
+            //return Ok("Task created successfully.");
+            return Ok(new { Tasks = task });
         }
 
         [HttpGet("{id}")]
@@ -48,7 +49,7 @@ namespace ConstructionManagement_Backend.Controllers
         public async Task<IActionResult> GetAllTasks()
         {
             var tasks = await _taskService.GetAllTasksAsync();
-            return Ok(tasks);
+            return Ok(new {Tasks = tasks });
         }
 
         [HttpPut("{id}")]

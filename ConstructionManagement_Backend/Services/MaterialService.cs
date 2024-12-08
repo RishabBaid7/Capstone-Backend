@@ -48,6 +48,7 @@ namespace ConstructionManagement_Backend.Services
         {
             var materials = await _materialRepository.GetMaterialsByProjectIdAsync(projectId);
             var project = await _projectRepository.GetProjectByIdAsync(projectId);
+            var vendors = await _vendorRepository.GetAllVendorsAsync();
 
             return materials.Select(m => new
             {
@@ -56,7 +57,8 @@ namespace ConstructionManagement_Backend.Services
                 m.Quantity,
                 m.Cost,
                 m.Status,
-                ProjectName = project?.Name ?? "Unknown Project"
+                ProjectName = project?.Name ?? "Unknown Project",
+                SupplierName = vendors.FirstOrDefault(v => v.Id == m.SupplierId)?.Name ?? "Unknown Supplier"
             }).ToList<dynamic>();
         }
 

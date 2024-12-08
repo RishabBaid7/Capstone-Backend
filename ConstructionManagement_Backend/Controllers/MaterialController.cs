@@ -40,7 +40,7 @@ namespace ConstructionManagement_Backend.Controllers
         public async Task<IActionResult> GetMaterialsByProjectId(string projectId)
         {
             var materials = await _materialService.GetMaterialsByProjectIdAsync(projectId);
-            return Ok(materials);
+            return Ok(new { Materials = materials});
         }
 
         [HttpGet("all")]

@@ -21,7 +21,7 @@ namespace ConstructionManagement_Backend.Controllers
         public async Task<IActionResult> CreateInspection([FromBody] SafetyInspection inspection)
         {
             await _inspectionService.CreateInspectionAsync(inspection);
-            return Ok("Inspection created successfully.");
+            return Ok(new { Message = "Inspection created successfully." });
         }
 
         [HttpGet("{id}")]
@@ -48,7 +48,7 @@ namespace ConstructionManagement_Backend.Controllers
         public async Task<IActionResult> GetAllInspections()
         {
             var inspections = await _inspectionService.GetAllInspectionsAsync();
-            return Ok(inspections);
+            return Ok(new {Inspections =  inspections });
         }
 
         [HttpPut("{id}")]

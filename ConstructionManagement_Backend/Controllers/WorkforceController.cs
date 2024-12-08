@@ -17,15 +17,15 @@ namespace ConstructionManagement_Backend.Controllers
         }
 
         [HttpPost("create")]
-        [AuthorizeRole("ProjectManager")]
+        [AuthorizeRole("ProjectManager,Supervisor")]
         public async Task<IActionResult> CreateWorker([FromBody] Workforce worker)
         {
             await _workforceService.CreateWorkerAsync(worker);
-            return Ok("Worker added successfully.");
+            return Ok(new { Message = "Worker added successfully." });
         }
 
         [HttpGet("{id}")]
-        [AuthorizeRole("ProjectManager")]
+        [AuthorizeRole("ProjectManager,Supervisor")]
         public async Task<IActionResult> GetWorkerById(string id)
         {
             var worker = await _workforceService.GetWorkerByIdAsync(id);
@@ -36,7 +36,7 @@ namespace ConstructionManagement_Backend.Controllers
         }
 
         [HttpGet("project/{projectId}")]
-        [AuthorizeRole("ProjectManager")]
+        [AuthorizeRole("ProjectManager,Supervisor")]
         public async Task<IActionResult> GetWorkersByProjectId(string projectId)
         {
             var workers = await _workforceService.GetWorkersByProjectIdAsync(projectId);
@@ -44,7 +44,7 @@ namespace ConstructionManagement_Backend.Controllers
         }
 
         [HttpGet("all")]
-        [AuthorizeRole("ProjectManager")]
+        [AuthorizeRole("ProjectManager,Supervisor")]
         public async Task<IActionResult> GetAllWorkers()
         {
             var workers = await _workforceService.GetAllWorkersAsync();
@@ -52,7 +52,7 @@ namespace ConstructionManagement_Backend.Controllers
         }
 
         [HttpPut("{id}")]
-        [AuthorizeRole("ProjectManager")]
+        [AuthorizeRole("ProjectManager,Supervisor")]
         public async Task<IActionResult> UpdateWorker(string id, [FromBody] Workforce worker)
         {
             if (id != worker.Id)
@@ -63,7 +63,7 @@ namespace ConstructionManagement_Backend.Controllers
         }
 
         [HttpDelete("{id}")]
-        [AuthorizeRole("ProjectManager")]
+        [AuthorizeRole("ProjectManager,Supervisor")]
         public async Task<IActionResult> DeleteWorker(string id)
         {
             await _workforceService.DeleteWorkerAsync(id);

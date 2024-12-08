@@ -20,7 +20,7 @@ namespace ConstructionManagement_Backend.Controllers
         public async Task<IActionResult> CreateVendor([FromBody] Vendor vendor)
         {
             await _vendorService.CreateVendorAsync(vendor);
-            return Ok("Vendor created successfully.");
+            return Ok( new { Message = "Vendor created successfully." });
         }
 
         [HttpGet("{id}")]
@@ -54,7 +54,7 @@ namespace ConstructionManagement_Backend.Controllers
         public async Task<IActionResult> DeleteVendor(string id)
         {
             await _vendorService.DeleteVendorAsync(id);
-            return Ok("Vendor deleted successfully.");
+            return Ok(new { Message = "Vendor deleted successfully." });
         }
     }
 }

@@ -8,17 +8,7 @@ namespace ConstructionManagement_Backend.Models
         [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]
 
-        public string Id
-        {
-            get { return Id; }
-            set
-            {
-                if (value is null)
-                {
-                    Id = ObjectId.GenerateNewId().ToString();
-                }
-            }
-        }
+        public string Id {get; set;}
 
         public string Name { get; set; }
 

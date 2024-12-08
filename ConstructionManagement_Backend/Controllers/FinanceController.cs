@@ -2,6 +2,7 @@
 using ConstructionManagement_Backend.Models;
 using ConstructionManagement_Backend.Services;
 using Microsoft.AspNetCore.Mvc;
+using System.Threading.Tasks;
 
 namespace ConstructionManagement_Backend.Controllers
 {
@@ -21,7 +22,7 @@ namespace ConstructionManagement_Backend.Controllers
         public async Task<IActionResult> CreateFinance([FromBody] Finance finance)
         {
             await _financeService.CreateFinanceAsync(finance);
-            return Ok("Finance entry created successfully.");
+            return Ok(new { Finance = finance });
         }
 
         [HttpGet("{id}")]
@@ -48,7 +49,8 @@ namespace ConstructionManagement_Backend.Controllers
         public async Task<IActionResult> GetAllFinances()
         {
             var financesWithProjectNames = await _financeService.GetAllFinancesWithProjectNamesAsync();
-            return Ok(financesWithProjectNames);
+            //return Ok(financesWithProjectNames);
+            return Ok(new { Finance = financesWithProjectNames });
         }
 
         [HttpPut("{id}")]
