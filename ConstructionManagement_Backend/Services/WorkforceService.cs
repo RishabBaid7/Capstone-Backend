@@ -71,6 +71,7 @@ namespace ConstructionManagement_Backend.Services
                 w.Id,
                 ProjectName = projects.FirstOrDefault(p => p.Id == w.ProjectId)?.Name ?? "Unknown Project",
                 TaskName = tasks.FirstOrDefault(t => t.Id == w.TaskId)?.TaskName ?? "Unknown Task",
+                w.WorkerName,
                 w.Role,
                 w.AttendanceStatus,
                 w.PerformanceRating

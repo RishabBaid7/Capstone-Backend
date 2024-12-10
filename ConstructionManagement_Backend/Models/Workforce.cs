@@ -15,6 +15,7 @@ namespace ConstructionManagement_Backend.Models
 
         [BsonRepresentation(BsonType.ObjectId)]
         public string TaskId { get; set; }
+        public string WorkerName { get; set; }
 
         public string Role { get; set; } // Worker, Engineer, Supervisor, etc.
 
