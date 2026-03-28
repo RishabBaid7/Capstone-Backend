@@ -124,6 +124,18 @@ namespace ConstructionManagement_Backend
 
             var app = builder.Build();
 
+            // Global exception handler — returns actual error so we can diagnose
+            app.UseExceptionHandler(errApp =>
+            {
+                errApp.Run(async context =>
+                {
+                    var ex = context.Features.Get<Microsoft.AspNetCore.Diagnostics.IExceptionHandlerFeature>();
+                    context.Response.StatusCode = 500;
+                    context.Response.ContentType = "application/json";
+                    await context.Response.WriteAsJsonAsync(new { error = ex?.Error?.Message, detail = ex?.Error?.ToString() });
+                });
+            });
+
             app.UseCors("AllowFrontend");  // Use CORS policy
 
             // Configure the HTTP request pipeline.
