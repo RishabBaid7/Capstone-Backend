@@ -22,7 +22,14 @@ namespace ConstructionManagement_Backend
             builder.Services.AddSingleton<IMongoClient>(s =>
             {
                 var settings = builder.Configuration.GetSection("MongoDB").Get<DatabaseSettings>();
-                return new MongoClient(settings.ConnectionString);
+                var clientSettings = MongoClientSettings.FromConnectionString(settings.ConnectionString);
+                // Fix TLS handshake issues on Linux Docker containers (Render, Railway, etc.)
+                clientSettings.SslSettings = new SslSettings
+                {
+                    EnabledSslProtocols = System.Security.Authentication.SslProtocols.Tls12
+                };
+                clientSettings.AllowInsecureTls = true;
+                return new MongoClient(clientSettings);
             });
 
             builder.Services.AddScoped<IMongoDatabase>(sp =>

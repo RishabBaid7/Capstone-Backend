@@ -11,6 +11,7 @@ RUN dotnet publish "ConstructionManagement_Backend.csproj" -c Release -o /app/pu
 
 FROM mcr.microsoft.com/dotnet/aspnet:8.0-focal AS final
 WORKDIR /app
+RUN apt-get update && apt-get install -y --no-install-recommends ca-certificates && update-ca-certificates && rm -rf /var/lib/apt/lists/*
 COPY --from=publish /app/publish .
 ENV ASPNETCORE_URLS=http://+:${PORT:-8080}
 EXPOSE 8080
