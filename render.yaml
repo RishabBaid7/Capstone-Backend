@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: construction-mgmt-backend
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    plan: free
+    envVars:
+      - key: ASPNETCORE_ENVIRONMENT
+        value: Production
+      - key: MongoDB__ConnectionString
+        sync: false
+      - key: MongoDB__DatabaseName
+        value: ConstructionManagementDB
+      - key: Jwt__Key
+        sync: false
+      - key: AllowedOrigins
+        sync: false

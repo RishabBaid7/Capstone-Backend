@@ -78,11 +78,13 @@ namespace ConstructionManagement_Backend
             builder.Services.AddControllers();
 
             //Add CORS services
+            var allowedOrigins = builder.Configuration["AllowedOrigins"]?.Split(',')
+                ?? new[] { "http://localhost:4200" };
             builder.Services.AddCors(options =>
             {
                 options.AddPolicy("AllowFrontend", policy =>
                 {
-                    policy.WithOrigins("http://localhost:4200")  // Replace with your frontend URL
+                    policy.WithOrigins(allowedOrigins)
                           .AllowAnyHeader()
                           .AllowAnyMethod();
                 });
@@ -125,13 +127,14 @@ namespace ConstructionManagement_Backend
             app.UseCors("AllowFrontend");  // Use CORS policy
 
             // Configure the HTTP request pipeline.
+            app.UseSwagger();
+            app.UseSwaggerUI();
+
+            // Only redirect to HTTPS in development; Railway handles TLS termination
             if (app.Environment.IsDevelopment())
             {
-                app.UseSwagger();
-                app.UseSwaggerUI();
+                app.UseHttpsRedirection();
             }
-
-            app.UseHttpsRedirection();
 
             app.UseAuthentication(); // Add authentication middleware
             app.UseAuthorization();   // Add authorization middleware
